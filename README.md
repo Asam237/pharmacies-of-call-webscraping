@@ -1,4 +1,8 @@
+![Screenshot_20230904_061822](https://github.com/Asam237/pharmacies-of-call-webscraping/assets/34966088/17eaf058-38cc-456f-9c31-67c192b7b964)
+
 ## Introduction
+
+cameroon's on-call pharmacies
 
 <br/>
 
@@ -10,6 +14,7 @@ This starter kit is composed of:
   <br/>
 - [TypeScript](https://www.typescriptlang.org/)
   <br/>
+
 - [Axios](https://axios-http.com/docs/intro)
   <br/>
 - [Cheerio](https://cheerio.js.org/)
