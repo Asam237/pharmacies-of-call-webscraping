@@ -1,8 +1,11 @@
 ![Screenshot_20230904_061822](https://github.com/Asam237/pharmacies-of-call-webscraping/assets/34966088/17eaf058-38cc-456f-9c31-67c192b7b964)
 
+https://github.com/Asam237/pharmacies-of-call-webscraping/assets/34966088/91fe51cb-ce8e-4d19-8b7d-6f0a29f14c23
+
 ## Introduction
 
 cameroon's on-call pharmacies
+- [annuaire-medical](https://www.annuaire-medical.cm/fr/pharmacies-de-garde)
 
 <br/>
 
@@ -12,6 +15,7 @@ This starter kit is composed of:
 
 - [Node.js](https://nodejs.org/en)
   <br/>
+
 - [TypeScript](https://www.typescriptlang.org/)
   <br/>
 
